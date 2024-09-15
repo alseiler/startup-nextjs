@@ -17,10 +17,10 @@ const blogData: Blog[] = [
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "11 simple ways to improve your design skills",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-02.jpg",
+    image: "/images/blog/blog-02-design.jpg",
     author: {
       name: "Musharof Chy",
       image: "/images/blog/author-02.png",
